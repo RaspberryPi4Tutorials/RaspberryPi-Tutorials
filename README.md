@@ -4,7 +4,7 @@ In this Repository
 
 HTML and CSS code
 
-Python project sorce code
+Python code
 
 SQL code
 
